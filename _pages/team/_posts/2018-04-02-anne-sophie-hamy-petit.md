@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff2
+category: staff
 title: 'Anne Sophie Hamy Petit'
 image: 'anne-sophie.jpeg'
 role: Lab co-director

@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff2
+category: staff
 title: Jeanne Bertrand
 image: jeanne.jpg
 role: Project Manager

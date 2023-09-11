@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff2
+category: staff
 title: Dorian Bondu
 image: dorian.jpeg
 role: Project Manager

@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff2
+category: staff
 title: 'Fabien Reyal'
 image: 'fabien.jpg'
 role: Lab director
