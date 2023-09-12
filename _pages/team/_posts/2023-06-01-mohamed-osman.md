@@ -1,10 +1,10 @@
 ---
 layout: member
 category: postdoc
-title: Nadir Sella
-image: nadir.jpg
+title: Mohamed Osman
+image: mohamed.jpg
 role: Postdoctoral Researcher
-permalink: 'team/nadir-sella'
+permalink: 'team/mohamed-osman'
 social:
     twitter: https://twitter.com/Nadir49907578
     linkedin:
