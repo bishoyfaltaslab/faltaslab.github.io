@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Staff
+category: staff
 title: 'Duy Nguyen'
 image: 'duy-nguyen.jpeg'
 role: Research Technician
