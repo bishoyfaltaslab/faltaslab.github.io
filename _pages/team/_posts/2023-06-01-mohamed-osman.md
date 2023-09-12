@@ -16,3 +16,4 @@ education:
     - MD
 ---
 
+Recently joined postdoc in the Faltas lab, joining us from Egypt. Preparing to transition into a residency in the US.

@@ -1,9 +1,9 @@
 ---
 layout: member
-category: phd-student
+category: alumni
 title: Elise Dumas
 image: elise.jpeg
-role: PhD Student (in co-supervision with the <a target="blank" href="http://cbio.mines-paristech.fr/">CBIO</a>)
+role: Student
 permalink: 'team/elise-dumas'
 social:
     twitter: https://twitter.com/EliseDumas3
